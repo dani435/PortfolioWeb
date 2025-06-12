@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #252525;
+    padding: 2rem;
+  }
+  
+  .categorie a {
+    display: inline-block;
+    margin: 1rem;
+    padding: 1rem 2rem;
+    background-color: #007BFF;
+    color: black;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background 0.3s;
+  }
+  
+  .categorie a:hover {
+    background-color: #0056b3;
+  }
