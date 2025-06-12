@@ -8,12 +8,14 @@ body {
   
   .categorie a {
     display:inline-block;
-    margin: 1rem;
-    padding: 1rem 2rem;
+    margin: 5px;
+    padding: 1rem 1rem;
     background-color: #007BFF;
     color: white;
     text-decoration: none;
     border-radius: 10px;
+    font-weight: bold;
+    width: 110px;
     transition: background 0.3s;
   }
   
