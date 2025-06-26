@@ -6,7 +6,7 @@ body {
     padding: 2rem;
   }
   
-  .categorie a {
+  .categories a {
     display:inline-block;
     margin: 5px;
     padding: 1rem 1rem;
@@ -19,7 +19,7 @@ body {
     transition: background 0.3s;
   }
   
-  .categorie a:hover {
+  .categories a:hover {
     background-color: #0056b3;
   }
 
